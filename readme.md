@@ -1,4 +1,4 @@
-# CSCE-679-Data-Visualization-Assignment2
+# CSCE679 Data Visualization Assignment 2 (Spring 2025)
 
 ## Assignment Description
 
