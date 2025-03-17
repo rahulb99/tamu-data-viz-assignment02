@@ -17,4 +17,6 @@ HK Temperature Heatmap
 ## Declaration
 I have used the following resources to help me in this assignment.
 * Basic Heatmap examples such as [1](https://d3-graph-gallery.com/graph/heatmap_style.html) & [2](https://www.react-graph-gallery.com/heatmap)
+* Reference to color scale for legends [3](https://observablehq.com/@d3/color-legend)
+* Reference to mouse hover [4](https://medium.com/@kj_schmidt/show-data-on-mouse-over-with-d3-js-3bf598ff8fc2)
 * [Claude 3.7 Sonnet](https://www.anthropic.com/) to resolve bugs and add (CSS and D3.js) styling.
