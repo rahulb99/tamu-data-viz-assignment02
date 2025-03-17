@@ -1,5 +1,7 @@
 # CSCE679 Data Visualization Assignment 2 (Spring 2025)
 
+Live demo: [https://tamu-dataviz-a2.pages.dev](https://tamu-dataviz-a2.pages.dev)
+
 ## Assignment Description
 
 ### Level 1 & 2 (Basic): [Link](./level1.md)
