@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.cell {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+.cell:hover {
+    stroke: #000;
+    stroke-width: 2px;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.legend-title {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.max-temp-line {
+    stroke: #4CAF50;
+    stroke-width: 1.5;
+    fill: none;
+}
+
+.min-temp-line {
+    stroke: #2196F3;
+    stroke-width: 1.5;
+    fill: none;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button:hover {
+    background-color: #005f99;
+}
